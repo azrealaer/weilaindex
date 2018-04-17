@@ -1,0 +1,883 @@
+.首页{
+    background-color: #F9F9F9;
+}
+.首页 div{
+    /*border: 1px solid red;*/
+    width: 98%;
+}
+.首页 p{
+    /*border: 1px solid red;*/
+}
+.首页 ul{
+    /*border: 1px solid red;*/
+}
+.首页 #顶部{
+    height: 38px;
+    border: 0;
+    border-bottom: #7F7F7F;
+}
+.首页 #导航{
+    border: 0;
+    height: 76px;
+}
+.首页 #轮播图{
+    height: 600px;
+    width: 99.8%;
+    border: 1px solid #F9F9F9;
+    background-size:  100% 100% ;
+    background: url("pic/252-105115.jpg") no-repeat center;
+}
+.首页 #体验{
+    width: 1420px;
+    height: 102px;
+    background-color: #FFFFFF;
+}
+.首页 #为您推荐{
+    height: 426px;
+    width: 1146px;
+    margin: 0 auto;
+    margin-bottom: 38px;
+}
+.首页 #目的地{
+    width: 1140px;
+    margin: 0 auto;
+}
+.首页 #热门别墅{
+    height: 462px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.首页 #帮您找别墅{
+    height: 500px;
+    width: 99.8%;
+    border: 1px solid #F9F9F9;
+    background-image: url("pic/h_help.jpg");
+    background-size: 100% 100%;
+}
+.首页 #用户评价{
+    height: 550px;
+}
+.首页 #发现{
+    height: 384px;
+}
+.首页 #底部{
+    height: 326px;
+}
+.首页 #顶部 .中部{
+    width: 1170px;
+    height: 38px;
+    line-height: 38px;
+    margin: auto;
+    font-size: 12px;
+    color: #7F7F7F;
+}
+.首页 #顶部 .中部 #更换站点{
+    color: #202020;
+}
+.首页 #顶部 .中部 #更换站点:hover{
+    color: #EE7700;
+}
+.首页 #顶部 .中部 span{
+    float: right;
+}
+.首页 #顶部 .中部 span #注册{
+    border-right: 1px solid gray;
+    padding-right: 22px;
+    color: #EE7700;
+}
+.首页 #顶部 .中部 span #登录{
+    padding-left: 22px;
+    color: #202020;
+}
+.首页 #顶部 .中部 span #登录:hover{
+    color: #EE7700;
+}
+.首页 #导航 .中部{
+    width: 1170px;
+    height: 76px;
+    line-height: 76px;
+    margin: auto;
+    color: #202020;
+}
+.首页 #导航 .中部 img{
+    margin: 12px auto;
+    vertical-align: top;
+    margin-right: 70px;
+
+}
+.首页 #导航 .中部 ul{
+    display: inline-block;
+    /*border: 1px solid black;*/
+}
+.首页 #导航 .中部 ul li{
+    display: inline-block;
+
+}
+.首页 #导航 .中部 ul li a{
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 54px;
+}
+.首页 #导航 .中部 ul li a:hover{
+    color: #EE7700;
+}
+.首页 #导航 .中部 ul li .first{
+    color: #EE7700;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 22px;
+    border-bottom: 4px solid #EE7700;
+    margin-right: 40px;
+}
+.首页 #轮播图 .底部{
+    width: 99.8%;
+    height: 122px;
+    /*background-color: black;*/
+    /*opacity: 0.5;*/
+    background-color:rgba(0, 0, 0, 0.5);
+    margin-top: 478px;
+}
+.首页 #轮播图 .底部 .中部{
+    margin: 0 auto;/*474*/
+    width: 1000px;
+}
+.首页 #轮播图 .底部 .中部 .热门推荐{
+    height: 60px;
+    color: #FFFFFF;
+    line-height: 60px;
+    width: 1000px;
+}
+.首页 #轮播图 .底部 .中部 .热门推荐 ul{
+    display: inline-block;
+}
+.首页 #轮播图 .底部 .中部 .热门推荐 ul li{
+    margin-right: 18px;
+    display: inline-block;
+}
+.首页 #轮播图 .底部 .中部 .热门推荐 ul li a{
+    font-size: 14px;
+    color: #FFFFFF;
+}
+.首页 #轮播图 .底部 .中部 .热门推荐 ul li a:hover{
+    color: #EE7700;
+}
+.首页 #轮播图 .底部 .中部 .搜索{
+    width: 1000px;
+}
+.首页 #轮播图 .底部 .中部 .搜索 ul{
+    display: inline-block;
+    vertical-align: top;
+}
+.首页 #轮播图 .底部 .中部 .搜索 ul li{
+    display: inline-block;
+    height: 42px;
+    margin-right: 2px;
+    background-color: #FFFFFF;
+    color: #5D5D5D;
+    line-height: 42px;
+    cursor:pointer;
+}
+.首页 #轮播图 .底部 .中部 .搜索 ul li span{
+    margin-left: 6px;
+}
+.首页 #轮播图 .底部 .中部 .搜索 ul li img{
+    float: right;
+    margin-top: 15px;
+    margin-right: 6px;
+}
+.首页 #轮播图 .底部 .中部 .搜索 ul .城市{
+    width: 195px;
+}
+.首页 #轮播图 .底部 .中部 .搜索 ul .类型{
+    width: 165px;
+}
+.首页 #轮播图 .底部 .中部 .搜索 ul .目的地{
+    width: 195px;
+}
+.首页 #轮播图 .底部 .中部 .搜索 img{
+    vertical-align: top;
+}
+.首页 #轮播图 .底部 .中部 .搜索 input{
+    height: 40px;
+    vertical-align: top;
+    border: 0;
+    border-left: 2px solid #FFFFFF;
+    margin-left: -8px;
+    margin-right: 2px;
+}
+.首页 #轮播图 .底部 .中部 .搜索 input:focus{
+    outline: none;
+}
+.首页 #轮播图 .底部 .中部 .搜索 .按钮{
+    width: 152px;
+    height: 42px;
+    color: #FFFFFF;
+    background-color: #EE7700;
+    line-height: 42px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+}
+.首页 #体验 .中部{
+    margin: 0 12%;
+    padding-top: 20px;
+    /*margin-top: 26px;*/
+}
+.首页 #体验 .中部 li{
+    display: inline-block;
+    margin-right: 126px;
+}
+.首页 #体验 .中部 li img{
+
+}
+.首页 #体验 .中部 li dl{
+
+    display: inline-block;
+    width: 160px;
+}
+.首页 #体验 .中部 li dl dt{
+
+    font-size: 18px;
+    color: #3D3D3D;
+}
+.首页 #体验 .中部 li dl dd{
+    font-size: 12px;
+    color: #7F7F7F;
+}
+.首页 #为您推荐 h3{
+    font-size: 28px;
+    width: 1140px;
+    text-align: center;
+    margin-top: 40px;
+}
+.首页 #为您推荐 .线{
+    width: 85px;
+    height: 18px;
+    border: none;
+    border-bottom: 2px solid #EE7700;
+    margin-left: 530px;
+    margin-bottom: 34px;
+}
+.首页 #为您推荐 .图片列表{
+    width: 630px;
+    height: 314px;
+    float: left;
+}
+.首页 #为您推荐 .图片列表 li{
+    width: 152px;
+    height: 152px;
+    display: inline-block;
+    /*border: 1px solid red;*/
+    margin: 0;
+}
+.首页 #为您推荐 .图片列表 li h4{
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 152px;
+}
+.首页 #为您推荐 .图片列表 .度假别墅{
+    background: url("pic/40-15117709022480.jpg") no-repeat;
+    background-size:cover
+}
+.首页 #为您推荐 .图片列表 .聚会轰趴{
+    background: url("pic/28-15117701869300.png") no-repeat;
+    background-size:cover
+}
+.首页 #为您推荐 .图片列表 .民宿客栈{
+    background: url("pic/29-15117704775190.png") no-repeat;
+    background-size:cover
+}
+.首页 #为您推荐 .图片列表 .度假酒店{
+    background: url("pic/45-15181654648380.jpg") no-repeat;
+    background-size:cover
+}
+.首页 #为您推荐 .图片列表 .山水乡居{
+    background: url("pic/27-15117697728440.png") no-repeat;
+    background-size:cover;
+    margin-top: 4px;
+}
+.首页 #为您推荐 .图片列表 .当季温泉{
+    background: url("pic/26-15117693422260.png") no-repeat;
+    background-size:cover;
+    margin-top: 4px;
+}
+.首页 #为您推荐 .图片列表 .美食轰趴{
+    background: url("pic/39-15181643874710.jpg") no-repeat;
+    background-size:cover;
+    margin-top: 4px;
+}
+.首页 #为您推荐 .图片列表 .大场地精选{
+    background: url("pic/46-15181609019530.JPG") no-repeat;
+    background-size:cover;
+    margin-top: 4px;
+}
+.首页 #为您推荐 .轮播图{
+    width: 510px;
+    height: 310px;
+    float: right;
+    background-image: url("pic/171-99821.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.首页 #为您推荐 .轮播图 ul{
+    margin-left: 186px;
+    margin-top: 288px;
+}
+.首页 #为您推荐 .轮播图 ul li{
+    width: 24px;
+    height: 4px;
+    background-color: #E5E5E5;
+    display: inline-block;
+    opacity: 0.8;
+}
+.首页 #为您推荐 .轮播图 ul .按钮1{
+    background-color: #EE7700;
+}
+.首页 #为您推荐 .轮播图 ul li:hover{
+    background-color: #EE7700;
+}
+.首页 #目的地 h3{
+    font-size: 28px;
+    width: 1140px;
+    text-align: center;
+    margin-top: 40px;
+}
+.首页 #目的地 .线{
+    width: 85px;
+    height: 18px;
+    border: none;
+    border-bottom: 2px solid #EE7700;
+    margin-left: 530px;
+    margin-bottom: 60px;
+}
+.首页 #目的地 .地点{
+    height: 42px;
+    padding-left: 20px;
+    border-bottom: 1px solid #D9D9D9;
+}
+.首页 #目的地 .地点 li{
+    display: inline-block;
+    margin-top: 4px;
+}
+.首页 #目的地 .地点 .first{
+    margin-left: 22px;
+}
+.首页 #目的地 .地点 .总{
+    width: 78px;
+    height: 32px;
+    background-color: #EE7700;
+    text-align: center;
+    border-radius: 8%;
+    margin-top: 0;
+}
+.首页 #目的地 .地点 .总 a{
+    color: #FFFFFF;
+    display: inline-block;
+    margin-top: 2px;
+}
+.首页 #目的地 .地点 .总 a:hover{
+    color: #FFFFFF;
+}
+.首页 #目的地 .地点 li a{
+    font-size: 16px;
+}
+.首页 #目的地 .地点 li a:hover{
+    color: #EE7700;
+}
+.首页 #目的地 .地点 span{
+    margin-left: 36px;
+    margin-right: 42px;
+    color: #D9D9D9;
+}
+.首页 #目的地 .图片列表{
+    width: 1170px;
+}
+.首页 #目的地 .图片列表 li{
+    display: inline-block;
+    vertical-align: top;
+    /*border: 1px solid red;*/
+    /*float: left;*/
+    margin-top: 30px;
+    margin-right: 20px;
+    /*margin-left: 6px;*/
+    width: 556px;
+    height: 338px;
+    background-color: #FFFFFF;
+}
+.首页 #目的地 .图片列表 li img{
+    margin-bottom: 16px;
+}
+.首页 #目的地 .图片列表 li .别墅{
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 18px;
+}
+.首页 #目的地 .图片列表 li .别墅:hover{
+    color: #EE7700;
+}
+.首页 #目的地 .图片列表 li .loc{
+    font-size: 14px;
+    margin-left: 22px;
+}
+.首页 #目的地 .图片列表 li h4{
+    color: #EE7700;
+    display: inline-block;
+    font-size: 12px;
+    float: right;
+    margin-right: 16px;
+}
+.首页 #目的地 .图片列表 li h4 .big{
+    font-size: 18px;
+    font-weight: bold;
+}
+.首页 #目的地 .图片列表 li h5{
+    font-size: 14px;
+    color: #7F7F7F;
+    display: inline-block;
+    margin-left: 18px;
+    margin-top: 12px;
+}
+.首页 #目的地 .图片列表 li h6{
+    font-size: 12px;
+    color: #7F7F7F;
+    display: inline-block;
+    float: right;
+    margin-right: 16px;
+    margin-top: 12px;
+}
+.首页 #目的地 .查看更多{
+    width: 140px;
+    height: 36px;
+    display: inline-block;
+    margin: 30px auto 30px 498px;
+    background-color: #FFFFFF;
+}
+.首页 #目的地 .查看更多 .文字{
+    width: 140px;
+    height: 36px;
+    border: 1px solid #D9D9D9;
+    font-size: 14px;
+    text-align: center;
+    line-height: 36px;
+}
+.首页 #目的地 .查看更多:hover div{
+    background-color: #EE7700;
+    color: #FFFFFF;
+}
+.首页 #热门别墅 h3{
+    font-size: 28px;
+    width: 1200px;
+    text-align: center;
+}
+.首页 #热门别墅 .线{
+    width: 85px;
+    height: 18px;
+    border: none;
+    border-bottom: 2px solid #EE7700;
+    margin-left: 558px;
+}
+.首页 #热门别墅 .小于{
+    width:30px;
+    height:60px;
+    background-color:#202020;
+    border-radius:30px 0 0 30px;
+    float: left;
+    vertical-align: top;
+    margin-top: 170px;
+}
+.首页 #热门别墅 .小于 span{
+    display: inline-block;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 12px 0 0 6px;
+}
+.首页 #热门别墅 .大于{
+    width:30px;
+    height:60px;
+    background-color:#202020;
+    border-radius:0 30px 30px 0;
+    float: left;
+    vertical-align: top;
+    margin-top: 170px;
+    margin-left: -2px;
+}
+.首页 #热门别墅 .大于 span{
+    display: inline-block;
+    color: #FFFFFF;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 12px 0 0 6px;
+}
+.首页 #热门别墅 a:hover div{
+    background-color: #EE7700;
+}
+.首页 #热门别墅 ul{
+    margin-top: 34px;
+    width: 1128px;
+    height: 340px;
+    float: left;
+    /*border: none;*/
+}
+.首页 #热门别墅 ul li{
+    height: 338px;
+    width: 280px;
+    border: 1px solid #E5E5E5;
+    border-left: none;
+    float: left;
+    background-color: #FFFFFF;
+}
+.首页 #热门别墅 ul .first{
+    border: 1px solid #E5E5E5;
+}
+.首页 #热门别墅 ul li:hover{
+    border-left: 1px solid #E7E7E7;
+    border-right: 2px solid #E7E7E7;
+    border-bottom: 2px solid #E7E7E7;
+}
+.首页 #热门别墅 ul .first:hover{
+    border-right: 2px solid #E7E7E7;
+    border-bottom: 2px solid #E7E7E7;
+}
+.首页 #热门别墅 ul .last:hover{
+    border-right: 1px solid #E7E7E7;
+}
+.首页 #热门别墅 ul li img{
+    margin: 20px 16px 18px 16px;
+}
+.首页 #热门别墅 ul li h1{
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+.首页 #热门别墅 ul li h2{
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 18px;
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.首页 #热门别墅 ul li h3{
+    font-size: 14px;
+    display: inline-block;
+    float: right;
+    margin-top: 18px;
+    margin-bottom: 20px;
+    margin-right: 22px;
+    color: #7F7F7F;
+    width: auto;
+}
+.首页 #热门别墅 ul li h4{
+    color: #EE7700;
+    font-size: 18px;
+    padding-left: 20px;
+    padding-top: 22px;
+    width: 260px;
+    border-top: 1px #D9D9D9 dashed;
+}
+.首页 #热门别墅 ul li h4 span{
+    font-size: 12px;
+    color: #000000;
+}
+.首页 #帮您找别墅 h2{
+    font-size: 38px;
+    color: #FFFFFF;
+    font-weight: bold;
+    margin-top: 146px;
+    /*margin-left: 774px;*/
+    margin-left:35%;
+}
+.首页 #帮您找别墅 h6{
+    font-size: 16px;
+    color: #FFFFFF;
+    margin-top: 22px;
+    /*margin-left: 790px;*/
+    margin-left:38%;
+}
+.首页 #帮您找别墅 ul{
+    /*margin-left: 630px;*/
+    margin-left:26%;
+    margin-top: 60px;
+    width: 654px;
+}
+.首页 #帮您找别墅 ul li{
+    float: left;
+    width: 300px;
+    height: 80px;
+    background-color: #EE7700;
+}
+.首页 #帮您找别墅 ul .second{
+    float: right;
+}
+.首页 #帮您找别墅 ul li h4{
+    font-size: 24px;
+    font-weight: bold;
+    width: 300px;
+    text-align: center;
+    margin-top: 22px;
+    color: #FFFFFF;
+}
+.首页 #帮您找别墅 ul li h5{
+    font-size: 14px;
+    font-weight: bold;
+    width: 300px;
+    text-align: center;
+    margin-top: 10px;
+    color: #FFFFFF;
+}
+.首页 #帮您找别墅 ul li:hover{
+    opacity: 0.9;
+}
+.首页 #用户评价 .中部{
+    width: 1146px;
+    height: 550px;
+    margin: 0 auto;
+}
+.首页 #用户评价 .中部 .标题{
+    width: 1146px;
+    font-size: 18px;
+    line-height: 44px;
+    padding-top: 24px;
+    border-bottom: 1px solid #D9D9D9;
+}
+.首页 #用户评价 .中部 .标题 a{
+    font-size: 14px;
+    float: right;
+}
+.首页 #用户评价 .中部 a:hover{
+    color: #EE7700;
+}
+.首页 #用户评价 .中部 .图片列表{
+    height: 320px;
+    width: 760px;
+    float: left;
+}
+.首页 #用户评价 .中部 .图片列表 .用户{
+    vertical-align: top;
+}
+.首页 #用户评价 .中部 .图片列表 span{
+    line-height: 40px;
+}
+.首页 #用户评价 .中部 .图片列表 a{
+    float: right;
+    line-height: 40px;
+}
+.首页 #用户评价 .中部 .图片列表 p{
+    color: #5D5D5D;
+    margin-bottom: 18px;
+}
+.首页 #用户评价 .中部 .文字列表{
+    height: 410px;
+    width: 350px;
+    float: right;
+}
+.首页 #用户评价 .中部 .文字列表 .用户{
+    vertical-align: top;
+}
+.首页 #用户评价 .中部 .文字列表 span{
+    line-height: 40px;
+}
+.首页 #用户评价 .中部 .文字列表 a{
+    float: right;
+    line-height: 40px;
+}
+.首页 #用户评价 .中部 .文字列表 p{
+    color: #5D5D5D;
+    margin-bottom: 18px;
+    font-size: 12px;
+}
+.首页 #用户评价 .中部 .文字列表 ul li{
+    height: 136px;
+    border-bottom: 1px #D9D9D9 dashed;
+}
+.首页 #发现{
+    background-color: #F4F4F4;
+}
+.首页 #发现 .中部{
+    width: 1146px;
+    height: 384px;
+    margin: 0 auto;
+}
+.首页 #发现 .中部 .标题{
+    width: 1146px;
+    font-size: 18px;
+    line-height: 44px;
+    padding-top: 24px;
+    border-bottom: 1px solid #D9D9D9;
+}
+.首页 #发现 .中部 .标题 a{
+    font-size: 14px;
+    float: right;
+}
+.首页 #发现 .中部 .标题 a:hover{
+    color: #EE7700;
+}
+.首页 #发现 .中部 .图片列表{
+    width: 750px;
+    height: 227px;
+    margin-top: 22px;
+    float: left;
+}
+.首页 #发现 .中部 .图片列表 img{
+    width: 364px;
+    height: 176px;
+}
+.首页 #发现 .中部 .图片列表 .second{
+    float: right;
+}
+.首页 #发现 .中部 .图片列表 li{
+    width: 364px;
+    height: 227px;
+    display: inline-block;
+    overflow:hidden;
+    text-overflow: ellipsis;
+    background-color: #FFFFFF;
+    border: 1px solid #E5E5E5;
+}
+.首页 #发现 .中部 .图片列表 li a{
+    display: inline-block;
+    width: 360px;
+    height:52px;
+    line-height:48px;
+    font-size: 14px;
+}
+.首页 #发现 .中部 .图片列表 li a:hover{
+    color: #EE7700;
+}
+.首页 #发现 .中部 .图片列表 li .文字{
+    text-indent: 16px;
+}
+.首页 #发现 .中部 .文字列表{
+    width: 350px;
+    height: 227px;
+    margin-top: 22px;
+    float: right;
+    background-color: #FFFFFF;
+    list-style-position: outside;
+    border: 1px solid #E5E5E5;
+}
+.首页 #发现 .中部 .文字列表 li{
+    overflow: hidden;
+    list-style: outside;
+    height: 40px;
+    padding-left: 15px;
+    line-height: 40px;
+    border-bottom: 1px #D9D9D9 dashed;
+}
+.首页 #发现 .中部 .文字列表 .last{
+    border: none;
+}
+.首页 #发现 .中部 .文字列表 .first{
+    margin-top: 10px;
+}
+.首页 #发现 .中部 .文字列表 a{
+    font-size: 12px;
+    color: #5D5D5D;
+}
+.首页 #发现 .中部 .文字列表 a:hover{
+    color: #EE7700;
+}
+.首页 #底部 .中部{
+    height: 268px;
+    width: 1346px;
+    padding-left: 5%;
+    color: #7F7F7F;
+}
+.首页 #底部 .中部 .底部LOGO{
+    vertical-align: top;
+    margin-top: 36px;
+}
+.首页 #底部 .中部 p{
+    display: inline-block;
+    width: 358px;
+    font-size: 12px;
+    line-height: 26px;
+    margin-left: 28px;
+    margin-top: 36px;
+    vertical-align: top;
+}
+.首页 #底部 .中部  h3{
+    font-size: 18px;
+    width: 98px;
+    border-bottom: 1px solid #ECECEC;
+    padding-bottom: 12px;
+}
+.首页 #底部 .中部 .维拉度假列表{
+    display: inline-block;
+    width: 100px;
+    height: 182px;
+    margin-left: 142px;
+    margin-top: 36px;
+    vertical-align: top;
+}
+.首页 #底部 .中部 .维拉度假列表 ul{
+    margin-top: 10px;
+}
+.首页 #底部 .中部 .维拉度假列表 ul li{
+    list-style: inside;
+    line-height: 26px;
+}
+.首页 #底部 .中部 .维拉度假列表 ul a{
+    color: #7F7F7F;
+    font-size: 12px;
+}
+.首页 #底部 .中部 .维拉度假列表 ul a:hover{
+    color: #EE7700;
+}
+.首页 #底部 .中部 .二维码{
+    display: inline-block;
+    width: 100px;
+    height: 182px;
+    margin-left: 62px;
+    margin-top: 36px;
+    vertical-align: top;
+}
+.首页 #底部 .中部 .二维码 img{
+    margin-top: 16px;
+}
+.首页 #底部 .中部 .联系我们{
+    font-size: 12px;
+}
+.首页 #底部 .中部 .联系我们 h3{
+    margin-bottom: 16px;
+    font-size: 18px;
+    width: 200px;
+}
+.首页 #底部 .中部 .联系我们 span{
+    font-weight: bold;
+    color: #EE7700;
+}
+.首页 #底部 .中部 .联系我们{
+    display: inline-block;
+    width: 200px;
+    height: 182px;
+    margin-left: 62px;
+    margin-top: 36px;
+}
+.首页 #底部 .版权{
+    background-color: #202020;
+}
+.首页 #底部 .版权{
+    text-align: center;
+}
+.首页 #底部 .版权 a{
+    line-height: 58px;
+    color: #5D5D5D;
+    font-size: 12px;
+}
+.首页 #固定栏{
+    width: 52px;
+    height: 256px;
+    position: fixed;
+    left: 95%;
+    top: 65%;
+}
+.首页 #固定栏 ul li{
+    cursor: pointer;
+}
+.首页 #固定栏 ul li:hover{
+
+}
